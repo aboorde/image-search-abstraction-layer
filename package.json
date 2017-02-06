@@ -8,5 +8,12 @@
     "start": "node server.js"
   },
   "author": "aboorde",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22",
+    "node-bing-api": "^3.2.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta11"
+  }
 }
