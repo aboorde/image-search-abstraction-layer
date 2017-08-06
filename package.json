@@ -9,6 +9,9 @@
   },
   "author": "aboorde",
   "license": "ISC",
+  "engines": {
+    "node": "4.8.4"
+  },
   "dependencies": {
     "express": "^4.14.1",
     "mongodb": "^2.2.22",
